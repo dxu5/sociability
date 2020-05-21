@@ -1,0 +1,18 @@
+export const SET_AUTHENTICATED = "SET_AUTHENTICATED";
+export const SET_UNAUTHENTICATED = "SET_UNAUTHENTICATED";
+export const SET_USER = "SET_USER";
+export const LOADING_USER = "LOADING_USER";
+export const SET_ERRORS = "SET_ERRORS";
+export const LOADING_UI = "LOADING_UI";
+export const CLEAR_ERRORS = "CLEAR_ERRORS";
+export const LOADING_DATA = "LOADING_DATA";
+export const STOP_LOADING_UI = "STOP_LOADING_UI";
+
+export const SET_SCREAMS = "SET_SCREAMS";
+export const SET_SCREAM = "SET_SCREAM";
+export const LIKE_HUM = "LIKE_HUM";
+export const UNLIKE_HUM = "UNLIKE_HUM";
+export const DELETE_HUM = "DELETE_HUM";
+export const POST_HUM = "POST_HUM";
+export const SUBMIT_COMMENT = "SUBMIT_COMMENT";
+export const MARK_NOTIFICATIONS_READ = "MARK_NOTIFICATIONS_READ";
